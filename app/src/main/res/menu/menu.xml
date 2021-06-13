@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/liste_dest"
+        android:contentDescription="Home"
+        android:title="Listeleme"/>
+
+    <item
+        android:id="@+id/detay_dest"
+        android:contentDescription="Messages"
+        android:title="Detay"/>
+
+
+</menu>
